@@ -31,4 +31,5 @@ public class Frais {
     }
 
     public Statut getStatut(Instant t) {return statut;}
+    public float getMontantAPayer() {return montantAPayer;}
 }
